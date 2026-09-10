@@ -1,2 +1,2 @@
 # INTRO-TO-ML
-The repository wall contain all ML projects and assignments
+The repository will contain all ML projects and assignments
